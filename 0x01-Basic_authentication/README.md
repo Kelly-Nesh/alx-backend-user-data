@@ -44,3 +44,4 @@ api
 models
 README.md
 requirements.txt
+0x01-Basic_authentication
